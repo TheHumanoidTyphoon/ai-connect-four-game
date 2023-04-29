@@ -1,5 +1,5 @@
 # Connect Four Game
-The program is an implementation of the classic game `Connect Four`. It has been coded in `Python`, and utilizes the `Pygame library`, a powerful tool for game development. This implementation is designed to be easy to understand and play, with a user-friendly interface that makes it accessible to players of all levels. With its sleek design and engaging gameplay, this version of `Connect Four` is sure to provide hours of entertainment for anyone who loves strategy games.
+The program is an implementation of the classic game `Connect Four`. It has been coded in `Python`, and utilizes the `Pygame library`, a powerful tool for game development. This implementation is designed to be easy to understand and play, with a user-friendly interface that makes it accessible to players of all levels. With its sleek design and engaging gameplay, this version of `Connect Four` is sure to provide hours of entertainment for anyone who loves strategy .
 
 ## Getting Started
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
